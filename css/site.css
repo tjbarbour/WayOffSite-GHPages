@@ -1,0 +1,27 @@
+.sidebar{
+    background-color:#293448;
+    padding: 0;
+}
+
+.sidebar h1{
+    font-family: 'PT Mono', monospace;
+    text-transform: uppercase;
+    font-size: 2rem;
+    display: none;
+}
+
+.sidebar p{
+    margin-bottom: 0.5rem;
+}
+.sidebar img{
+    width: 100%;
+    margin: 0;
+}
+
+.sidebar ul{
+    margin-bottom: 0;
+}
+
+.credits{
+    font-size: 0.75rem;
+}

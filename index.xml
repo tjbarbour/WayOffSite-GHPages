@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Way Off Site</title>
+    <link>http://wayoff.site/index.xml</link>
+    <description>Recent content on Way Off Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Dec 2016 23:39:35 -0800</lastBuildDate>
+    <atom:link href="http://wayoff.site/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hello world!</title>
+      <link>http://wayoff.site/post/hello-world/</link>
+      <pubDate>Tue, 20 Dec 2016 23:39:35 -0800</pubDate>
+      
+      <guid>http://wayoff.site/post/hello-world/</guid>
+      <description>&lt;p&gt;Welcome to &lt;a href=&#34;http://wayoff.site&#34;&gt;Way Off Site&lt;/a&gt;! The podcast where we try to demystify remote work by sharing the experiences of developers who work way off site.&lt;/p&gt;
+
+&lt;p&gt;Our first episode will be dropping &lt;em&gt;any day now&lt;/em&gt;, so please follow us on twitter at &lt;a href=&#34;http://twitter.com/wayoffsite&#34;&gt;@wayoffsite&lt;/a&gt; for updates.&lt;/p&gt;
+
+&lt;p&gt;For a little behind the scenes, I&amp;rsquo;m  &lt;a href=&#34;http://twitter.com/tjbarbour&#34;&gt;T.J. Barbour&lt;/a&gt;, and I&amp;rsquo;m a typical developer who has to suffer a daily commute and standing guard at my cubicle.  In my quest to &amp;ldquo;go remote&amp;rdquo; I realized there&amp;rsquo;s a lot to take in.  One day at a developer meetup, I was pitched the idea to podcast about remote development.  So, I hope we can learn about this together as I interview developers who have experience working remotely.  This website was built using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; and we record our podcasts on &lt;a href=&#34;https://zencastr.com&#34;&gt;Zencastr&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you have feedback, would like to be a guest or just want to get in touch, you can email us at &lt;a href=&#34;mailto:wayoffsite@gmail.com&#34;&gt;wayoffsite@gmail.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Big Thanks&lt;/strong&gt; to some of the people who have inspired me to do this&lt;br /&gt;
+- &lt;a href=&#34;https://twitter.com/hansleman&#34;&gt;Scott Hanselman&lt;/a&gt; of &lt;a href=&#34;http://www.hanselminutes.com/&#34;&gt;Hanselminutes&lt;/a&gt;&lt;br /&gt;
+- &lt;a href=&#34;https://twitter.com/robconery&#34;&gt;Rob Conery&lt;/a&gt; of &lt;a href=&#34;http://thisdeveloperslife.com/&#34;&gt;This Developer&amp;rsquo;s Life&lt;/a&gt;&lt;br /&gt;
+- &lt;a href=&#34;https://twitter.com/codinghorror&#34;&gt;Jeff Atwood&lt;/a&gt; of &lt;a href=&#34;http://www.discourse.org/&#34;&gt;Discourse&lt;/a&gt;&lt;br /&gt;
+- &lt;a href=&#34;https://twitter.com/spolsky&#34;&gt;Joel Spolsky&lt;/a&gt; of &lt;a href=&#34;http://stackoverflow.com/&#34;&gt;StackOverflow&lt;/a&gt;&lt;br /&gt;
+- &lt;a href=&#34;https://twitter.com/the_prion&#34;&gt;Jeff Mayerson&lt;/a&gt; of &lt;a href=&#34;https://softwareengineeringdaily.com/&#34;&gt;Software Engineering Daily&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And last but not least &lt;a href=&#34;https://twitter.com/jsonmez&#34;&gt;John Sonmez&lt;/a&gt; of &lt;a href=&#34;https://simpleprogrammer.com/&#34;&gt;Simple Programmer&lt;/a&gt; for pitching me the original idea.&lt;/p&gt;
+
+&lt;p&gt;Thank YOU for checking us out!&lt;/p&gt;
+
+&lt;p&gt;Your Host, &lt;a href=&#34;http://www.tjbarbour.com/&#34;&gt;T.J. Barbour&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
