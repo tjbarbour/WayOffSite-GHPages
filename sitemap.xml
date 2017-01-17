@@ -2,8 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://wayoff.site/episode/001-Marco-Cecconi-Stack-Overflow/</loc>
+    <lastmod>2017-01-14T22:46:01-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://wayoff.site/post/hello-world/</loc>
     <lastmod>2016-12-20T23:39:35-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://wayoff.site/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wayoff.site/tags/developer/</loc>
+    <lastmod>2017-01-14T22:46:01-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wayoff.site/categories/episode/</loc>
+    <lastmod>2017-01-14T22:46:01-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wayoff.site/episode/</loc>
+    <lastmod>2017-01-14T22:46:01-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wayoff.site/categories/interview/</loc>
+    <lastmod>2017-01-14T22:46:01-08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -13,8 +47,19 @@
   </url>
   
   <url>
+    <loc>http://wayoff.site/tags/stackoverflow/</loc>
+    <lastmod>2017-01-14T22:46:01-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wayoff.site/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://wayoff.site/</loc>
-    <lastmod>2016-12-20T23:39:35-08:00</lastmod>
+    <lastmod>2017-01-14T22:46:01-08:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -22,6 +22,16 @@
     margin-bottom: 0;
 }
 
+.sidebar hr{
+    border-color: rgba(255,255,255,.5);
+}
+
 .credits{
     font-size: 0.75rem;
+}
+
+.episode-lead img
+{
+    float: left;
+    margin-right: 10px;
 }
